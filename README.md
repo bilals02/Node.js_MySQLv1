@@ -28,3 +28,6 @@ However, if there is not enough of the product in stock, it will tell the user t
 
 **Tutorial Video:**
 * [Bamazon Customer Tutorial](https://drive.google.com/file/d/1sw7hQ3EdoZ5EsdQ9nOlJrl726G2sSgT0/view?usp=sharing)
+
+**Author:**
+* Developed by Bilal Saeed
