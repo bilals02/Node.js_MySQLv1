@@ -7,17 +7,12 @@ To create an amazon prototype of an ordering system which checks the inventory a
 
 
 **Getting Started:** 
-
-
 * Clone Repo
 * Run command in Terminal or Gitbash 'npm install
 * Run 'ctrl + c' to exit each mode
 
 
-
-
 **What does BamazonCustomer.js JavaScript do?**
-______________________________________________________________________________________________________________________________
 * Prints the products in the store.
 * Prompts customer which product they would like to purchase by ID number.
 * Asks for the quantity.
@@ -26,8 +21,10 @@ However, if there is not enough of the product in stock, it will tell the user t
 * If the purchase goes through, it updates the stock quantity to reflect the purchase.
 * It will also update the product sales in the department table.
 
+
 **Tutorial Video:**
 * [Bamazon Customer Tutorial](https://drive.google.com/file/d/1sw7hQ3EdoZ5EsdQ9nOlJrl726G2sSgT0/view?usp=sharing)
+
 
 **Author:**
 * Developed by Bilal Saeed
