@@ -2,6 +2,8 @@
 var mysql = require('mysql');
 var inquirer = require('inquirer');
 
+//heroku testing
+
 //create connection to db
 var connection = mysql.createConnection({
   host: "localhost",
